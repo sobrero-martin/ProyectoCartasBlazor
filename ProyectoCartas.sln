@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoCartas.Server", "ProyectoCartas.Server\ProyectoCartas.Server\ProyectoCartas.Server.csproj", "{DA9BAD54-E42C-47B8-BF26-AF0E69614D97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoCartas.Server.Client", "ProyectoCartas.Server\ProyectoCartas.Server.Client\ProyectoCartas.Server.Client.csproj", "{AAAFA460-7E54-4A2C-BDC3-C3FDF490C661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoCartas.BD", "ProyectoCartas.BD\ProyectoCartas.BD.csproj", "{941FE18F-32F3-429C-B49B-131E4DB3DB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoCartas.Repositorio", "ProyectoCartas.Repositorio\ProyectoCartas.Repositorio.csproj", "{0EFD0485-1FC8-4032-996A-4D1FFFD77674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoCartas.Servicio", "ProyectoCartas.Servicio\ProyectoCartas.Servicio.csproj", "{C13A99ED-27E5-4975-BA0C-688C73CA9586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoCartas.Shared", "ProyectoCartas.Shared\ProyectoCartas.Shared.csproj", "{B5B3766E-58D5-4F9E-9BC2-E0901EEDCABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9BAD54-E42C-47B8-BF26-AF0E69614D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9BAD54-E42C-47B8-BF26-AF0E69614D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9BAD54-E42C-47B8-BF26-AF0E69614D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9BAD54-E42C-47B8-BF26-AF0E69614D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAFA460-7E54-4A2C-BDC3-C3FDF490C661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAFA460-7E54-4A2C-BDC3-C3FDF490C661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAFA460-7E54-4A2C-BDC3-C3FDF490C661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAFA460-7E54-4A2C-BDC3-C3FDF490C661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941FE18F-32F3-429C-B49B-131E4DB3DB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941FE18F-32F3-429C-B49B-131E4DB3DB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941FE18F-32F3-429C-B49B-131E4DB3DB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941FE18F-32F3-429C-B49B-131E4DB3DB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EFD0485-1FC8-4032-996A-4D1FFFD77674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFD0485-1FC8-4032-996A-4D1FFFD77674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFD0485-1FC8-4032-996A-4D1FFFD77674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFD0485-1FC8-4032-996A-4D1FFFD77674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13A99ED-27E5-4975-BA0C-688C73CA9586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13A99ED-27E5-4975-BA0C-688C73CA9586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13A99ED-27E5-4975-BA0C-688C73CA9586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13A99ED-27E5-4975-BA0C-688C73CA9586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B3766E-58D5-4F9E-9BC2-E0901EEDCABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B3766E-58D5-4F9E-9BC2-E0901EEDCABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B3766E-58D5-4F9E-9BC2-E0901EEDCABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B3766E-58D5-4F9E-9BC2-E0901EEDCABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AACCD76-791E-4BCB-BC97-6EAFA98AEBC9}
+	EndGlobalSection
+EndGlobal
